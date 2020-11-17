@@ -1,10 +1,9 @@
 ---
 layout: haiku
-title: coding
-author: Musavveer Rehaman
-test: false
+title: Coding, a Haiku
+author: Shreyas Subramanian
 ---
 
- It's night 2 AM<br>
- Working on a new project<br>
- That's incredible<br>
+Coding is so fun<br>
+Learning to code makes me smile<br>
+Useful for future<br>
